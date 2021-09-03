@@ -1,0 +1,44 @@
+.programItem {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  gap: .5rem;
+  padding: 1rem;
+}
+
+.content {
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: .3rem;
+}
+
+.group {
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+}
+
+.title {
+  color: #003cff;
+  font-size: 1.55rem;
+  font-weight: 700;
+}
+
+.property {
+  color: #000;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.lists {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem;
+}
+
+.listItem {
+  color: #777;
+  font-size: 1.25rem;
+}

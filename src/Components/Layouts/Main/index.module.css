@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+.tables {
+  flex: 4;
+  padding: 0 1rem;
+  overflow: hidden;
+}

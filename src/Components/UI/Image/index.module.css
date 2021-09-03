@@ -1,0 +1,7 @@
+.image {
+  display: block;
+  background: rgba(153, 153, 153, 0.2);
+  height: 16rem;
+  object-fit: contain;
+  padding: .5rem;
+}

@@ -1,0 +1,22 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  width: 100%;
+}
+
+.footerDetails {
+  display: flex;
+  gap: 1rem;
+}
+
+.spanOne {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.spanTwo {
+  font-size: 2rem;
+  font-weight: 300;
+}
